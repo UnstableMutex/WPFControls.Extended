@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControls.Extended", "WpfControls.Extended\WpfControls.Extended.csproj", "{8c331ed4-a8e1-49f5-acf8-0847f2ff4f56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControls.Test", "WpfControls.Test\WpfControls.Test.csproj", "{1e08342f-515c-4ad7-8014-226d9add75e3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E08342F-515C-4AD7-8014-226D9ADD75E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E08342F-515C-4AD7-8014-226D9ADD75E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E08342F-515C-4AD7-8014-226D9ADD75E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E08342F-515C-4AD7-8014-226D9ADD75E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C331ED4-A8E1-49F5-ACF8-0847F2FF4F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C331ED4-A8E1-49F5-ACF8-0847F2FF4F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C331ED4-A8E1-49F5-ACF8-0847F2FF4F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C331ED4-A8E1-49F5-ACF8-0847F2FF4F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
