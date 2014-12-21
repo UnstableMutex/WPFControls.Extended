@@ -9,4 +9,3 @@ C:\Users\Dmitry\Documents\GitHub\WPFControls.Extended\WpfControls.Extended\WpfCo
 C:\Users\Dmitry\Documents\GitHub\WPFControls.Extended\WpfControls.Extended\WpfControls.Extended\obj\Debug\WpfControls.Extended.csproj.GenerateResource.Cache
 C:\Users\Dmitry\Documents\GitHub\WPFControls.Extended\WpfControls.Extended\WpfControls.Extended\obj\Debug\WpfControls_Extended.dll
 C:\Users\Dmitry\Documents\GitHub\WPFControls.Extended\WpfControls.Extended\WpfControls.Extended\obj\Debug\WpfControls_Extended.pdb
-C:\Users\Dmitry\Documents\GitHub\WPFControls.Extended\WpfControls.Extended\WpfControls.Extended\obj\Debug\WpfControls.Extended.csprojResolveAssemblyReference.cache
