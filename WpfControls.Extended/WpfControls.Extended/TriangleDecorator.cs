@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-namespace WpfControls.Extended
+namespace WpfControls_Extended
 {
    public class TriangleDecorator : Decorator
     {
