@@ -1,0 +1,14 @@
+  <ControlTemplate TargetType="{x:Type HeaderedItemsControl}">
+        <Border>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <ContentPresenter ContentSource="Header" />
+                <Separator Grid.Row="1" />
+                <ItemsPresenter Grid.Row="2" />
+            </Grid>
+        </Border>                       
+    </ControlTemplate>
